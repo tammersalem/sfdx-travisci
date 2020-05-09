@@ -1,5 +1,7 @@
 # sfdx-travisci [![Build Status](https://travis-ci.org/forcedotcom/sfdx-travisci.svg?branch=master)](https://travis-ci.org/forcedotcom/sfdx-travisci)
 
+This cloned repo was from Trailhead module: https://trailhead.salesforce.com/content/learn/modules/sfdx_travis_ci?trailmix_creator_id=strailhead&trailmix_slug=architect-dev-lifecycle-and-deployment
+
 For a fully guided walk through of setting up and configuring this sample, see the [Continuous Integration Using Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_travis_ci) Trailhead module.
 
 This repository shows one way you can successfully setup Salesforce DX with Travis CI. We make a few assumptions in this README:
